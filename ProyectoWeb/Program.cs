@@ -33,7 +33,8 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    //Modificamos la vista para que sea la del cliente por default
+    pattern: "{area=Client}/{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
 
 app.Run();
