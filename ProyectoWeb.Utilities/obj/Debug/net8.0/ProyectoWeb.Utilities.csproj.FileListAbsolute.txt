@@ -1,0 +1,12 @@
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\bin\Debug\net8.0\ProyectoWeb.Utilities.deps.json
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\bin\Debug\net8.0\ProyectoWeb.Utilities.dll
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\bin\Debug\net8.0\ProyectoWeb.Utilities.pdb
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\ProyectoWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\ProyectoWeb.Utilities.AssemblyInfoInputs.cache
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\ProyectoWeb.Utilities.AssemblyInfo.cs
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\ProyectoWeb.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\ProyectoWeb.Utilities.sourcelink.json
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\ProyectoWeb.Utilities.dll
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\refint\ProyectoWeb.Utilities.dll
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\ProyectoWeb.Utilities.pdb
+C:\Users\Gris\Downloads\PIA WEB\ProyectoWeb\ProyectoWeb.Utilities\obj\Debug\net8.0\ref\ProyectoWeb.Utilities.dll

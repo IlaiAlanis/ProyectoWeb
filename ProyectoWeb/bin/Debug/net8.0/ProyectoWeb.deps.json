@@ -13,7 +13,8 @@
           "Microsoft.AspNetCore.Identity.UI": "8.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.4",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2",
+          "ProyectoWeb.AccessData": "1.0.0"
         },
         "runtime": {
           "ProyectoWeb.dll": {}
@@ -1970,6 +1971,28 @@
             "fileVersion": "7.0.22.51805"
           }
         }
+      },
+      "ProyectoWeb.AccessData/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
+          "Microsoft.EntityFrameworkCore": "8.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
+          "ProyectoWeb.Models": "1.0.0",
+          "ProyectoWeb.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "ProyectoWeb.AccessData.dll": {}
+        }
+      },
+      "ProyectoWeb.Models/1.0.0": {
+        "runtime": {
+          "ProyectoWeb.Models.dll": {}
+        }
+      },
+      "ProyectoWeb.Utilities/1.0.0": {
+        "runtime": {
+          "ProyectoWeb.Utilities.dll": {}
+        }
       }
     }
   },
@@ -3154,6 +3177,21 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "ProyectoWeb.AccessData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProyectoWeb.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProyectoWeb.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

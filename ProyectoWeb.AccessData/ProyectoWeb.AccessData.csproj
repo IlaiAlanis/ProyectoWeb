@@ -16,4 +16,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoWeb.Models\ProyectoWeb.Models.csproj" />
+    <ProjectReference Include="..\ProyectoWeb.Utilities\ProyectoWeb.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>

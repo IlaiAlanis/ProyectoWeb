@@ -1584,6 +1584,26 @@
             "rid": "win"
           }
         }
+      },
+      "ProyectoWeb.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ProyectoWeb.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProyectoWeb.Models.dll": {}
+        }
+      },
+      "ProyectoWeb.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ProyectoWeb.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProyectoWeb.Utilities.dll": {}
+        }
       }
     }
   },
@@ -4269,6 +4289,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ProyectoWeb.Models/1.0.0": {
+      "type": "project",
+      "path": "../ProyectoWeb.Models/ProyectoWeb.Models.csproj",
+      "msbuildProject": "../ProyectoWeb.Models/ProyectoWeb.Models.csproj"
+    },
+    "ProyectoWeb.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../ProyectoWeb.Utilities/ProyectoWeb.Utilities.csproj",
+      "msbuildProject": "../ProyectoWeb.Utilities/ProyectoWeb.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4276,7 +4306,9 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.4",
       "Microsoft.EntityFrameworkCore >= 8.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.4",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.4"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.4",
+      "ProyectoWeb.Models >= 1.0.0",
+      "ProyectoWeb.Utilities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4310,7 +4342,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Gris\\Downloads\\PIA WEB\\ProyectoWeb\\ProyectoWeb.Models\\ProyectoWeb.Models.csproj": {
+              "projectPath": "C:\\Users\\Gris\\Downloads\\PIA WEB\\ProyectoWeb\\ProyectoWeb.Models\\ProyectoWeb.Models.csproj"
+            },
+            "C:\\Users\\Gris\\Downloads\\PIA WEB\\ProyectoWeb\\ProyectoWeb.Utilities\\ProyectoWeb.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Gris\\Downloads\\PIA WEB\\ProyectoWeb\\ProyectoWeb.Utilities\\ProyectoWeb.Utilities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
